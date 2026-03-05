@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/application/useCases/ConvertValue.ts","./src/domain/models/Unit.ts","./src/domain/models/UnitRegistry.ts","./src/domain/services/ConversionEngine.ts","./src/presentation/components/AdBanner.tsx","./src/presentation/components/ConverterForm.tsx"],"version":"5.9.3"}
